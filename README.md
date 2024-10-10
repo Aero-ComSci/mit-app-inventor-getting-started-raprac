@@ -11,4 +11,6 @@ In this repository you will be turning in your cookie clicker sim created on MIT
 
 4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
 
+I remember at first it was hard to figure out what each blocks meant for the code and to figure out exactly how mit app inventor worked. However, after figuring things out,and analyzing what code blocks were used for it was fun to see how it was able to create a whole game!
+
 
